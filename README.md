@@ -30,10 +30,6 @@ A bert-based word clustering algorithm. To cluster clinical comments into differ
 
 </details>
 
-## <div align="center">Contribute</div>
-
-
-
 ## <div align="center">Contact</div>
 
 email: likehao1006@gmail.com

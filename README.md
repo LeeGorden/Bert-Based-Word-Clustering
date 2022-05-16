@@ -28,8 +28,7 @@ A bert-based word clustering algorithm. To cluster clinical comments into differ
 
 - ![Word embedding_With8clustercolored_SampleName](https://user-images.githubusercontent.com/72702872/168527315-0abd6256-7d85-4ffa-af94-47eade562bb8.png)
 
-  
-</details>![Word embedding_With8clustercolored_SampleName](C:\Users\LiGoudan\Desktop\Git_Upload_TMP\Word Clustering Using Bert\Result\Word embedding_With8clustercolored_SampleName.png)
+</details>
 
 ## <div align="center">Contribute</div>
 
@@ -37,7 +36,9 @@ A bert-based word clustering algorithm. To cluster clinical comments into differ
 
 ## <div align="center">Contact</div>
 
-likehao1006@gmail.com
+email: likehao1006@gmail.com
+LinkedIn: https://www.linkedin.com/in/kehao-li-06a9a2235/
+ResearchGate: https://www.researchgate.net/profile/Gorden-Li
 
 <br>
 

@@ -33,7 +33,9 @@ A bert-based word clustering algorithm. To cluster clinical comments into differ
 ## <div align="center">Contact</div>
 
 email: likehao1006@gmail.com
+
 LinkedIn: https://www.linkedin.com/in/kehao-li-06a9a2235/
+
 ResearchGate: https://www.researchgate.net/profile/Gorden-Li
 
 <br>

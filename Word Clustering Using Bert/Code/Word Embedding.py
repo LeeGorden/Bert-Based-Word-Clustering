@@ -2,6 +2,7 @@
 """
 Author: LiGorden
 Email: likehao1006@gmail.com
+LinkedIn: https://www.linkedin.com/in/kehao-li-06a9a2235/
 """
 import pandas as pd
 import numpy as np

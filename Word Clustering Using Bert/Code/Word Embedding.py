@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Author: LiGorden
+Email: likehao1006@gmail.com
 """
 import pandas as pd
 import numpy as np
